@@ -1,0 +1,6 @@
+@SgfAnalyzer_HostAddress = http://localhost:5291
+
+GET {{SgfAnalyzer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
